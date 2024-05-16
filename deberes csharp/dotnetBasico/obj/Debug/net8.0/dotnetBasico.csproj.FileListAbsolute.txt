@@ -1,0 +1,15 @@
+C:\Programacion\Java\PruebasProyecto\deberes csharp\dotnetBasico\bin\Debug\net8.0\dotnetBasico.exe
+C:\Programacion\Java\PruebasProyecto\deberes csharp\dotnetBasico\bin\Debug\net8.0\dotnetBasico.deps.json
+C:\Programacion\Java\PruebasProyecto\deberes csharp\dotnetBasico\bin\Debug\net8.0\dotnetBasico.runtimeconfig.json
+C:\Programacion\Java\PruebasProyecto\deberes csharp\dotnetBasico\bin\Debug\net8.0\dotnetBasico.dll
+C:\Programacion\Java\PruebasProyecto\deberes csharp\dotnetBasico\bin\Debug\net8.0\dotnetBasico.pdb
+C:\Programacion\Java\PruebasProyecto\deberes csharp\dotnetBasico\obj\Debug\net8.0\dotnetBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\Java\PruebasProyecto\deberes csharp\dotnetBasico\obj\Debug\net8.0\dotnetBasico.AssemblyInfoInputs.cache
+C:\Programacion\Java\PruebasProyecto\deberes csharp\dotnetBasico\obj\Debug\net8.0\dotnetBasico.AssemblyInfo.cs
+C:\Programacion\Java\PruebasProyecto\deberes csharp\dotnetBasico\obj\Debug\net8.0\dotnetBasico.csproj.CoreCompileInputs.cache
+C:\Programacion\Java\PruebasProyecto\deberes csharp\dotnetBasico\obj\Debug\net8.0\dotnetBasico.sourcelink.json
+C:\Programacion\Java\PruebasProyecto\deberes csharp\dotnetBasico\obj\Debug\net8.0\dotnetBasico.dll
+C:\Programacion\Java\PruebasProyecto\deberes csharp\dotnetBasico\obj\Debug\net8.0\refint\dotnetBasico.dll
+C:\Programacion\Java\PruebasProyecto\deberes csharp\dotnetBasico\obj\Debug\net8.0\dotnetBasico.pdb
+C:\Programacion\Java\PruebasProyecto\deberes csharp\dotnetBasico\obj\Debug\net8.0\dotnetBasico.genruntimeconfig.cache
+C:\Programacion\Java\PruebasProyecto\deberes csharp\dotnetBasico\obj\Debug\net8.0\ref\dotnetBasico.dll

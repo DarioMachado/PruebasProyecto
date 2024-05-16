@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jn5Tzf8Q57yGUBVgvJl0lI49V1kH/ABBOoe5hu6sgWMDwSg1UcVzbDKjZ7kNrrsoRQT0BahNWFkHURHh3eEWtw==",
+  "success": true,
+  "projectFilePath": "C:\\Programacion\\Java\\PruebasProyecto\\deberes csharp\\qrascii\\qrascii.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dario\\.nuget\\packages\\qrcoder\\1.5.1\\qrcoder.1.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
